@@ -6,5 +6,5 @@ The received signal at each transmitter is delayed relative to the other receive
 White noise is added to simulate receiver noise, and frequency offset, drift, and random jitter is introduced to simulate non-perfect receivers.
 The data is saved to .mat files, to be processed by algorithms to perform time difference of arrival estimation,
 and using the estimated time differences to geolocate the transmitter.<br><br>
-<img class="is-content" src="TDOA Simulation Signal Generation.png" width="1333" height="945" alt="mark-profile-pic" caption="" data-width="original" data-scaling="no">
+<img class="is-content" src="TDOA Simulation Signal Generation.png" width="1256" height="580" alt="SIMULINK: TDOA Simulation Signal Generation" caption="" data-width="original" data-scaling="no">
 
